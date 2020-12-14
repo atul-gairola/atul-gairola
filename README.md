@@ -1,17 +1,14 @@
-### Hi there 👋
+![](atul-gairola.png)
 
-![](https://github.com/atul-gairola/atul-gairola/blob/master/Atul gairola.png?raw=true)
-<!--
-**atul-gairola/atul-gairola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there 👋 
+I am Atul Gairola, a MERN stack web developer and designer from India. 
+I am currently working as a Fullstack web dev intern  and also taking freelance works :computer:, while pursuing my Btech in Computer Science :mortar_board:.
 
-Here are some ideas to get you started:
+I believe in the philosophy that 
+> "one can never learn everything, but there is nothing one cannot learn."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thus I am passionate about challenging myself to learn more and create more everyday. 
+
+When I am not developing you can find me watching anime or surfing through youtube falling trap to clickbaits. I like watching documentaries on space and wildlife and am a big fan of self help books.
+
+***
