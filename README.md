@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/atul-gairola/atul-gairola/blob/master/AtulGairola.png?raw=true)
+![](https://github.com/atul-gairola/atul-gairola/blob/master/Atul gairola.png?raw=true)
 <!--
 **atul-gairola/atul-gairola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
