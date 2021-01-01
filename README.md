@@ -9,6 +9,6 @@ I believe in the philosophy that
 
 Thus I am passionate about challenging myself to learn more and create more everyday. 
 
-When I am not developing you can find me watching anime or surfing through youtube falling trap to clickbaits. I like watching documentaries on space and wildlife and am a big fan of self help books.
+When I am not developing you can find me watching anime or surfing through youtube falling trap to clickbaits. I like watching documentaries on space and wildlife and am starting to try reading as a hobby.
 
 ***
